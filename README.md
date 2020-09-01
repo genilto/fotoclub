@@ -1,4 +1,4 @@
-# fotoclube
+# fotoclub
 Fotolog em PHP puro - Meu primeiro grande projeto em PHP ( Muito antigo e inseguro não utilizar! )
 
 Por anos tenho salvo esse projeto nos meus backups.
