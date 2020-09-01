@@ -1,0 +1,1 @@
+<script>window.location="../usuarios.php?nome=genilto";</script>

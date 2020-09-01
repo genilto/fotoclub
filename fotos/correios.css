@@ -1,0 +1,214 @@
+TD {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #000000;
+}
+
+P {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #000000;
+}
+
+A {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #359bd8;
+}
+
+A:Hover {
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #002a78;
+}
+
+SELECT {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #002a78;
+border: none;
+}
+
+INPUT {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #002a78;
+/* border: none; */
+}
+
+TEXTAREA {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #000000;
+}
+
+LI {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #000000;
+}
+
+
+H1 {
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 11pt; 
+font-weight: bold; 
+color: #202A65;
+}
+
+H2 {
+text-decoration: none; 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10pt;
+color: #3399cc;
+}
+
+
+H3 {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #359bd8;
+}
+
+H3:hover {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #002a78;
+}
+
+.borda {
+ border: 1px solid #D9D8C5;
+}
+
+.bordatab {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: ACABAB;
+	border-right-color: ffffff;
+	border-bottom-color: ffffff;
+	border-left-color: ACABAB;
+}
+.botao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	color: #000000;
+	background-color: #D6D6D6;
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid ACABAB;
+	border-bottom: 1px solid ACABAB;
+	border-left: 1px solid #FFFFFF;
+
+}
+.bordaform {
+	border: 1px solid ACABAB;
+	height: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #0066CC;
+
+}
+.preto7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #000000;
+}
+.linkpreto7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #000000;
+}
+
+.linkpreto7:hover {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 7pt;
+ color: #000000;
+ text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+.azul7 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7pt; color: #202A65}
+.azul7:hover {  text-decoration: underline; font-family: Arial, Helvetica, sans-serif; font-size: 7pt; color: #424242}
+
+.azul75 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #202A65}
+.azul75:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #202A65; text-decoration: none;}
+
+.azul85 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8.5pt; color: #202A65}
+.azul85:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 8.5pt; color: #202A65; text-decoration: none;}
+
+.azul9 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #202A65}
+.azul9:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #202A65}
+
+.branco75 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #ffffff}
+.branco75:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #ffffff}
+
+.branco8 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #ffffff}
+.branco8:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #ffffff}
+
+.branco9 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #ffffff}
+.branco9:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #ffffff}
+
+.cinza75 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #6c787d}
+.cinza75:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #6c787d}
+
+.cinza8 {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #646a6e}
+.cinza8:Hover {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #646a6e}
+
+.preto8 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+.preto8:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+
+.linkpreto8 {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+.linkpreto8:hover {  text-decoration: underline; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+
+.form_home {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #002a78; border: none;}
+.form_home2 {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #002a78; border: none;}
+.form_newsletter {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #002a78; background-color: #d8e6ed; border: none;}
+.copyright {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #a3aab2}
+.h_title {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #577686}
+
+.h_subtitle {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #359bd8}
+.h_subtitle:hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #002a78}
+
+.preco {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #89a7b6}
+.preco:hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #359bd8}
+
+.cep {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #359BD8}
+.cep:hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #002A78}
+
+.bcrumb {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #3399cc}
+.bcrumb:Hover {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #3399cc}
+
+.title {  font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #202A65}
+
+.subtitle {  text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #3399cc}
+
+.fale {  
+text-decoration: none; 
+font-family: Arial, Helvetica, sans-serif; 
+font-weight: bold; 
+color: #202A65}
+
+

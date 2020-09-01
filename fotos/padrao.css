@@ -1,0 +1,98 @@
+/* CSS Document */
+a:link {
+    color : #0000FF;
+	text-decoration: none;
+}
+a:visited {
+    color : #0000FF;
+	text-decoration: none;
+}
+a:hover {
+    color : #0000FF;
+	text-decoration: underline;
+}
+a:active {
+    color : #0000FF;
+	text-decoration: none;
+}
+.titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.texto_gran {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+}
+.form {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+}
+.td {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FF0000;
+	background-color: #EEEEEE;
+	border: thin solid #CCCCCC;
+}
+.img_padrao {
+	border: thin solid #000000;
+}
+
+.caixa_texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	background-color: #FFFFFF;
+	border: 0px;
+}
+
+.botaomenuchat {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #999999;
+	background-color: #EEEEEE;
+	border: medium none;
+	float: none;
+	height: auto;
+	width: auto;
+	cursor: hand;
+	text-transform: uppercase;
+}
+.barra_chat {
+	SCROLLBAR-FACE-COLOR: #FFFFFF; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF; 
+	SCROLLBAR-SHADOW-COLOR: #FFFFFF; 
+	SCROLLBAR-3DLIGHT-COLOR: #EEEEEE; 
+	SCROLLBAR-ARROW-COLOR: #AAAAAA; 
+	SCROLLBAR-TRACK-COLOR: #EEEEEE; 
+	SCROLLBAR-DARKSHADOW-COLOR: #CCCCCC;
+}
