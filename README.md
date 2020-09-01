@@ -18,8 +18,8 @@ Aponta o servidor para a pasta do projeto e, acho que vai rodar.
 
 Eu não sabia, mas esse era um projeto visionário. Pena que o chat que eu tinha desenvolvido junto eu perdi pelo caminho.
 
-Senão, seria sucesso, com certeza. Talvez hoje a onde não fosse facebook, mas sim, genilto.com.
+Senão, seria sucesso, com certeza. Arrisco dizer até que hoje a onda toda não seria facebook, mas sim, genilto.com.
 
-:)
+;)
 
 Abraço, e vejam se não vão usar isso aqui em produção, é um perigo.
